@@ -1,3 +1,5 @@
 An example file in an example repo.
 
 An example edit for a master branch.
+
+Adding another line for master branch.
